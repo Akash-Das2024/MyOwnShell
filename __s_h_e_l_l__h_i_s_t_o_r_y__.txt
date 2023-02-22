@@ -1,4 +1,9 @@
 exit
+ps aux
+pwd
+pw
+pwd
+exit
 delep l.txt
 ps aux
 ls
