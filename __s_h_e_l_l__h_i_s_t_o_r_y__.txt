@@ -1,0 +1,80 @@
+exit
+delep l.txt
+ps aux
+ls
+./test
+g++ test.cpp -o test
+ls
+cd trashfiles
+ls
+history
+exit
+history
+rm test
+ls
+clear
+ls
+
+delep l.txt
+nano l.txt
+ls
+sb 20839 -suggest
+clear
+sb
+sb
+sb 20839 -suggest
+sb 20839
+ps aux
+./test
+g++ test.cpp -o test
+g++ test.c
+ps aux
+ps auc
+history
+ls
+rm tst
+rm test
+rm ex
+rm curs
+nano test.cpp
+nano test
+ls
+cd trashfiles
+rm ter.c
+ls
+rm ter
+ls
+echo $SHELL
+history
+clear
+awk '{sum += $1} END {print sum}' output.txt
+awk '{sum += $1 END print sum}' output.txt
+awk '{print $2}' output.txt
+awk '{print $0}' output.txt
+cat output.txt
+./ter < input.txt > output.txt
+nano input.txt
+touch input.txt
+./ter
+cc ter.c -o ter
+rm a.out
+ls
+cc ter.c
+g++ ter.c
+nano ter.c
+touch ter.c
+ls
+history
+exit
+echo hello world
+exit
+ls
+./a
+ls | sort | awk -F . '{print $1}'
+ls | sort 
+ls | wc -l
+ls
+ls -l
+clear
+awk '{print $1}' a.cpp
+ls
