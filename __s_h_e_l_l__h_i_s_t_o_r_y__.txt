@@ -1,5 +1,7 @@
 exit
 ps aux
+exit
+ps aux
 pwd
 pw
 pwd
