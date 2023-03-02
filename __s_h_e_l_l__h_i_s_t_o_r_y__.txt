@@ -1,4 +1,7 @@
 exit
+clear
+history
+exit
 ps aux
 exit
 ps aux
