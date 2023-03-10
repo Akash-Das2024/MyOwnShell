@@ -17,3 +17,9 @@ g++ shell.c -o shell
 ```
 
 start executing linux commands :)
+
+## Contributors:
+-   [Akash Das]()
+-   [Prakhar Singh]()
+-   [Saras Umakant Pantulwar]()
+-   [Rohit Kumar Prajapati]()
